@@ -1,1 +1,2 @@
-you are a nice girl，I love you.
+Git is a version control system.
+Git is free software.
